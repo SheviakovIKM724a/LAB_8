@@ -17,6 +17,7 @@ int main() {
         if (arr[i] != arr[10 - 1 - i]) {
             isPal = false;
             break;
+
         }
     }
 
